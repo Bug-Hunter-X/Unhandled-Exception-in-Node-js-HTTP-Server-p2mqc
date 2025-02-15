@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Node.js applications: unhandled exceptions. The `bug.js` file contains a server that throws an error without proper handling, causing the server to crash. The `bugSolution.js` file shows how to properly handle the error using a `try...catch` block to prevent the crash and gracefully handle errors.
